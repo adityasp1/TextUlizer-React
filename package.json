@@ -1,5 +1,5 @@
 {
-  "homepage": "https://adityasp1.github.io/Textutils",
+  "homepage": "https://adityasp1.github.io/TextUlizer-React",
   "name": "textutils",
   "version": "0.1.0",
   "private": true,
@@ -8,7 +8,6 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "cors": "^2.8.5",
-    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^5.2.0",
@@ -43,5 +42,8 @@
     "type": [
       "module"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
