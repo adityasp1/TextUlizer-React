@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextUlizer-React/static/css/main.e6c13ad2.css",
+    "main.js": "/TextUlizer-React/static/js/main.003e485e.js",
+    "static/js/787.719ec76d.chunk.js": "/TextUlizer-React/static/js/787.719ec76d.chunk.js",
+    "index.html": "/TextUlizer-React/index.html",
+    "main.e6c13ad2.css.map": "/TextUlizer-React/static/css/main.e6c13ad2.css.map",
+    "main.003e485e.js.map": "/TextUlizer-React/static/js/main.003e485e.js.map",
+    "787.719ec76d.chunk.js.map": "/TextUlizer-React/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.003e485e.js"
+  ]
+}
