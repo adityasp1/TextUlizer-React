@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
+// import About from './components/About';
 import Alert from './components/Alert';
-//  import About from './components/About';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 // import About from './components/About';
@@ -46,17 +46,19 @@ function App() {
     <>
     
     {/* <Router> */}
-    <Navbar title="TextUlizer" aboutText="About" mode={mode} toggleMode={toggleMode} />
+    <Navbar title="TextUlizer"  mode={mode} toggleMode={toggleMode} />
       <Alert alert={alert} />
       <div className="container my-3">
       {/* <Switch>
         
           <Route exact path="/about">
-            
             <About/>
           </Route>
           <Route exact path="/"> */}
-            <TextForm showAlert={showAlert} heading="Enter the text to analyze below" mode={mode} />
+             
+
+            <TextForm showAlert={showAlert} heading="Try TextUlizer - Word Counter, Character Counter, Remove Extra Spaces" mode={mode} />
+            
           {/* </Route>
         
       </Switch> */}
